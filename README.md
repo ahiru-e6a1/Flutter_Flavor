@@ -1,6 +1,6 @@
 # flutter_flavor
 
-FlutterをFlavorで開発・本番環境に分ける
+FlutterをFlavorで開発（DEV）・ステージング（STG）・本番(PRD)の3つの環境に分ける
 
 ## Getting Started
 
